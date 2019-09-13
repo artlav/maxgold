@@ -1,0 +1,8 @@
+{
+ "server_port":"18008",
+ "server_code":"123456",
+ "debug":"0",
+ "local":"0",
+ "rle":"1",
+ "no_pass":"0"
+}
